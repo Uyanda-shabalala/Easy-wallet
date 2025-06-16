@@ -1,2 +1,16 @@
 # Easy-wallet
-A PHP-based payment system that lets users choose between different payment methods and saves the transactions in a SQL database.
+
+This is a PHP-based web app that lets users simulate making payments with different methods (like card, PayPal, etc.). All payment data is stored using SQL.
+
+## 💻 Features
+- Select and simulate payment methods
+- Save transactions to SQL database
+- Simple, form-based UI
+
+## 🛠 Tech Used
+- HTML, CSS
+- PHP
+- SQL
+
+## 📚 Notes
+Project built for academic purposes in Internet Programming 621.
