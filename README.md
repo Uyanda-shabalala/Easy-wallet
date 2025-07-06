@@ -11,6 +11,7 @@ This is a PHP-based web app that lets users simulate making payments with differ
 - HTML, CSS
 - PHP
 - SQL
+-javascript
 
 ## 📚 Notes
-Project built for academic purposes in Internet Programming 621.
+Project built for academic purposes in Internet Programming 621,with minor personal revisions post academic purposes.

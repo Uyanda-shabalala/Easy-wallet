@@ -19,13 +19,17 @@
     }
     ?>
     <link rel="stylesheet" href="style.css">
+    
 </head>
-<body>
+<body id="body">
+    <button id="dark_mode" onclick= DarkMode()>Dark mode</button>
 
-    <h1>Welcome to easy wallet</h1>
-    <h3>Your one stop payment management system</h3> 
 
-    <div class="form container">
+    <div id="headings">
+        <h1 >Welcome to easy wallet</h1>
+        <h3>Your one stop payment management system</h3> 
+    </div>
+    <div class="form container" id="container">
         <form method="POST" action="question2.php">
             <fieldset>
                 <label for="name">Name:</label>
@@ -108,5 +112,6 @@
         }
         ?>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
